@@ -41,5 +41,3 @@ const dnaToRna2 = (str) => {
     }
     return res;
 }
-
-console.log(dnaToRna2('ACNTG'));
